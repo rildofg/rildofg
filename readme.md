@@ -2,8 +2,11 @@
 
 <h1 align="center">Olá! Sou Rildo Gomes 👋</h1>
 
-Atualmente, trabalho como Analista de Sistemas na Ordem dos Advogados do Brasil - Seccional - PE, tive a oportunidade de implantar as ferramentas de BI (Power BI e Pentaho)
-e sou responsável pela manutenção dos comandos SQL e criação de novos relatórios, paineis e controle de acesso.
+Prezados.
+
+Atualmente, trabalho na Ordem dos Advogados do Brasil – Seccional Pernambuco, como Analista de Tecnologia. Nessa função, sou responsável por realizar levantamentos de requisitos para melhorias e produtividade, além das ferramentas e processos de extração de dados para criação de modelos que auxiliam na tomada de decisão. Fui responsável pela implantação do projeto de BI na instituição, onde disponibilizamos um ambiente híbrido com Pentaho e o Power BI, desde então, estou responsável pela manutenção destes ambientes, bem como pela criação de novos relatórios e dashboards para as equipes. Além disso, desenvolvo outras atividades essenciais dentro do setor, contribuindo para a eficiência e inovação contínua.
+Descrevo-me como um profissional de ótima conduta, atencioso e com facilidade de aprendizado. Considerando minha experiência e versatilidade, acredito que posso trazer uma contribuição valiosa à sua empresa. Vejo este espaço como uma oportunidade ideal para mostrar meu potencial e, assim, junto com a equipe, auxiliar no crescimento do negócio. Com isso, pretendo continuar me destacando em minha carreira profissional e promover uma melhor qualidade de vida para minha família.
+
 
 <h3>Redes Sociais</h3>
 <div style="display: flex">
