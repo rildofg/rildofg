@@ -16,12 +16,16 @@ Descrevo-me como um profissional de ótima conduta, atencioso e com facilidade d
 </div>
 
 <h3>Habilidades</h3>
-<h4>Estes são alguns dos cursos que fiz na DIO:</h4>
+<h4>Estes são alguns dos cursos que fiz:</h4>
 <h4>Fundamentos de Modelagem Dimensional</h4>
 <h4>Fundamentos de Data Analytics com Power BI</h4>
 <h4>Coleta e Extração de Dados com Power BI</h4>
 <h4>Modelagem de Dados no Power BI</h4>
-
+<h4>Storytelling e Visualização de Dados 20</h4>
+<h4>SQL Server Avançado</h4>
+<h4>Microsoft Power BI para Business Intelligence e Data Science</h4>
+<h4>Pentaho Data Integration ETL Essencial</h4>
+<h4>Profissional de Privacidade de Dados LGPD</h4>
 <div style="display: flex">
 <br>
 
