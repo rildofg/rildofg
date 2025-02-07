@@ -21,7 +21,15 @@ Estou motivado a seguir me destacando em minha carreira e, ao mesmo tempo, propo
 
 [![image](https://github.com/user-attachments/assets/7fc1b3de-fce2-4686-85b5-70d33f98203e)](https://www.linkedin.com/in/rildo-gomes-06580142)
 
-</div>
+<h3>Portifólio</h3>
+
+[Vendas Varejo:](https://app.powerbi.com/view?r=eyJrIjoiYWVkNjYwNDYtMzEzYy00ZGFkLTgxNzYtYWIyODU1NWFiMDgzIiwidCI6IjRmMDg2MTI0LWMyYzktNGU2Zi05Mjk4LTVmMGQ2NTU5NGI4MyJ9&pageName=ReportSectioncf77f7dbc2d80be00708)
+<br>
+[Controle de Condomínio:](https://app.powerbi.com/view?r=eyJrIjoiODcxOTlhMGMtZGM5My00MzEwLWJhNzQtM2Y3MzA5NjVhZTdhIiwidCI6IjRmMDg2MTI0LWMyYzktNGU2Zi05Mjk4LTVmMGQ2NTU5NGI4MyJ9&pageName=ReportSection842d88372983069e77d3)
+<br>
+[Vendas e Exportações:](https://app.powerbi.com/view?r=eyJrIjoiZTAyMTdmOTMtMDFjOS00YmQxLTlmZDUtMjUyZjU4ZjZkMzgwIiwidCI6IjRmMDg2MTI0LWMyYzktNGU2Zi05Mjk4LTVmMGQ2NTU5NGI4MyJ9)
+<br>
+[Vendas - VERTEX Tennis:](https://app.powerbi.com/view?r=eyJrIjoiZGVlZTVlM2QtNTg3Yy00ZDRlLThlMTgtOWYwYjcxYzljMjY1IiwidCI6IjRmMDg2MTI0LWMyYzktNGU2Zi05Mjk4LTVmMGQ2NTU5NGI4MyJ9)
 
 <h3>Habilidades</h3>
 <h4>Estes são alguns dos cursos que fiz:</h4>
