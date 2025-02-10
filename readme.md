@@ -1,5 +1,6 @@
-![image](https://github.com/user-attachments/assets/4de7f62c-222f-4a6b-b473-a6c40b3a7309)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4de7f62c-222f-4a6b-b473-a6c40b3a7309" alt="image">
+</p>
 <h1 align="center">Olá! Sou Rildo Gomes 👋</h1>
 
 <h4 align="justify">
