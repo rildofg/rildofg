@@ -31,7 +31,12 @@ Estou motivado a seguir me destacando em minha carreira e, ao mesmo tempo, propo
 <br>
 [Vendas - VERTEX Tennis:](https://app.powerbi.com/view?r=eyJrIjoiZGVlZTVlM2QtNTg3Yy00ZDRlLThlMTgtOWYwYjcxYzljMjY1IiwidCI6IjRmMDg2MTI0LWMyYzktNGU2Zi05Mjk4LTVmMGQ2NTU5NGI4MyJ9)
 
-<h3>Habilidades</h3>
+<h3>Habilidades Técnicas:</h3>
+- Ferramentas de BI: Power BI, Pentaho(PRD, PDI, BA Server), Qlikview.<br>
+- Bancos de Dados: SQL Server, MySQL.<br>
+- Metodologias Ágeis: Scrum, Kanban.<br>
+- Criação de dashboards interativos, desenvolvimento de relatórios customizados, integração de dados com ETL.<br>
+
 <h4>Estes são alguns dos cursos que fiz:</h4>
 <h4>Fundamentos de Modelagem Dimensional</h4>
 <h4>Fundamentos de Data Analytics com Power BI</h4>
