@@ -4,7 +4,6 @@
 <h1 align="center">Olá! Sou Rildo Gomes 👋</h1>
 
 <h4 align="justify">
-Prezados.
 
 Atualmente, atuo como Analista de Tecnologia na Ordem dos Advogados do Brasil – Seccional Pernambuco. Nessa função, sou responsável pelo levantamento de requisitos voltados à melhoria de processos e aumento de produtividade, e ferramentas para o processos de extração de dados para criação de modelos que apoiam a tomada de decisões estratégicas.
 
@@ -38,16 +37,17 @@ Estou motivado a seguir me destacando em minha carreira e, ao mesmo tempo, propo
 - Metodologias Ágeis: Scrum, Kanban.<br>
 - Criação de dashboards interativos, desenvolvimento de relatórios customizados, integração de dados com ETL.<br>
 
-<h4>Estes são alguns dos cursos que fiz:</h4>
-<h4>Fundamentos de Modelagem Dimensional</h4>
-<h4>Fundamentos de Data Analytics com Power BI</h4>
-<h4>Coleta e Extração de Dados com Power BI</h4>
-<h4>Modelagem de Dados no Power BI</h4>
-<h4>Storytelling e Visualização de Dados 20</h4>
-<h4>SQL Server Avançado</h4>
-<h4>Microsoft Power BI para Business Intelligence e Data Science</h4>
-<h4>Pentaho Data Integration ETL Essencial</h4>
-<h4>Profissional de Privacidade de Dados LGPD</h4>
+<h3>Cursos e atualizações:</h3>
+- Fundamentos de Modelagem Dimensional<br>
+- Fundamentos de Data Analytics com Power BI<br>
+- Coleta e Extração de Dados com Power BI<br>
+- Modelagem de Dados no Power BI<br>
+- Storytelling e Visualização de Dados 2.0<br>
+- SQL Server Avançado<br>
+- Microsoft Power BI para Business Intelligence e Data Science><br>
+- Pentaho Data Integration ETL Essencial<br>
+- Profissional de Privacidade de Dados LGPD<br>
+
 <div style="display: flex">
 <br>
 
