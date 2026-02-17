@@ -58,7 +58,8 @@ Estou motivado a seguir me destacando em minha carreira e, ao mesmo tempo, propo
 <h3>Sou autor dos livros:</h3>
 
 [![image](https://github.com/user-attachments/assets/4ebab2e8-4afd-419e-9960-8f1605259725)](https://clubedeautores.com.br/livro/construindo-uma-solucao-de-business-intelligence-com-pentaho)
-[![image](https://github.com/rildofg/rildofg/issues/1#issue-3950271748)](https://clubedeautores.com.br/livro/do-basico-ao-analista-um-guia-para-uma-nova-carreira-em-analise-de-dados)
+[<img width="195" height="330" alt="livro2" src="https://github.com/user-attachments/assets/3ef8c827-5d97-4ceb-b84f-6e6d25bc6f4a" />](https://clubedeautores.com.br/livro/do-basico-ao-analista-um-guia-para-uma-nova-carreira-em-analise-de-dados)
+
 
 
 </div>
